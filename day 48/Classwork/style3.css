@@ -1,0 +1,13 @@
+img {
+    height: 300px;
+    width: 250px;
+    border-radius: 10px;
+}
+
+h1 {
+    Margin-left:35%;
+}
+
+select {
+    display: flex;
+}

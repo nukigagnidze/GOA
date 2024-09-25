@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150vh;
+}
+
+.A {
+    width: 100px;
+    height: 105px;
+    background-color: blueviolet;
+}
+
+.A {
+    transform: translate(40px,40px);
+    transform: rotate(40deg);
+    transform-origin: top left;
+    transform: scale(40px);
+}

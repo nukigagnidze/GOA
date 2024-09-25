@@ -1,0 +1,35 @@
+.main {
+   display: flex;
+   background-color: black;
+   justify-content: space-around;
+   align-items: center;
+}
+
+p, h1 {
+   color:white
+}
+
+.info {
+   display: flex
+}
+ 
+.contact {
+   background-color: aqua;
+   border-radius: 20px;
+   width: 100px;
+   height: 35px;
+   color: white;
+}
+
+.info {
+   gap: 10px;
+   color: white;
+}
+
+.ad {
+   background-color: blue;
+   width: 200px;
+   height: 50px;
+   color: rgb(255, 255, 255);
+   font-size: large;
+}

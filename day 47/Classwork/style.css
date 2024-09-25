@@ -1,0 +1,11 @@
+div {
+    display: flex;
+    
+    
+}
+
+img {
+     height: 500px;
+     width: 600px;
+     border-radius: 5px
+}

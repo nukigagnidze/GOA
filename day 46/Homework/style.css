@@ -1,0 +1,23 @@
+section {
+    display: flex;
+    
+    
+}
+
+img {
+     height: 150px;
+     width: 200px;
+     border-radius: 50px;
+}
+
+header {
+    display: flex;
+
+
+}
+
+img {
+    height: 150px;
+     width: 200px;
+     border-radius: 50px;
+}

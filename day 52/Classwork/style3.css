@@ -1,0 +1,24 @@
+h1 {
+    margin-left: 40%;
+    height: 50px;
+    width: 50px;
+}
+
+button {
+    margin-left: 40%;
+}
+
+#perent {
+    display: flex;
+    width: 194px;
+    height: 194px;
+    border-radius: 15px;
+    background-color: rgb(252, 0, 240);
+}
+
+#child {
+    width: 194px;
+    height: 194px;
+    border-radius: 15px;
+    background-color: blue;
+}

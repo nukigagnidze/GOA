@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main {
+    width: 600px;
+    height: 600px;
+    border: 5px solid red;
+
+    display: grid;
+    grid-template-columns: 1fr 3fr 1fr;
+
+    grid-template-columns: 200px 3fr 1fr;
+    grid-template-rows: 2fr 4fr;
+}
+
+section {
+    background-color: green;
+    border: 1px solid purple;
+}

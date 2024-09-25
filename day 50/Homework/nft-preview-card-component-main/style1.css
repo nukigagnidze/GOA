@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(34, 34, 89);
+}
+.site{
+    margin-left: 35%;
+    border: solid 5px white;
+    width:490px;
+    height: 600px;
+}
+img{
+    height: 300px;
+    width: 400px;
+    margin-left: 13%;
+    border-radius: 20px;
+}
+h1{
+    margin-left: 13%;
+    color: white;
+}
+p{
+    margin-left: 13%;
+}
+section{
+    width: 400px;
+    height: 300px;
+    margin-left: 14%;
+    display: flex;
+    justify-content: space-between;
+}
