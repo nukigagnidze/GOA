@@ -1,0 +1,15 @@
+img {
+    display: flex;
+    background-image: none;
+    position: relative;
+}
+
+h1 {
+    background-color: blueviolet;
+    color: white;
+}
+
+p {
+    background-color: blueviolet;
+    color: white;
+}
