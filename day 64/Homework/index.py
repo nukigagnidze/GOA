@@ -1,0 +1,1 @@
+# aq sololerni iyo da classwork-i vinc ver daasrula mas unda daewera
